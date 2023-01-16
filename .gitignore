@@ -1,2 +1,5 @@
 *.ipynb
 *ipynb*
+test.csv
+__pycache__/
+.vscode/
